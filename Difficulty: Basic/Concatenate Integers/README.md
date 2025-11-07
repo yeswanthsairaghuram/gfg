@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/concatenate-integers/1?page=2&category=Java&sortBy=submissions">Concatenate Integers</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Given two integers<strong style="user-select: auto;"> a</strong> and <strong style="user-select: auto;">b</strong>, you need to <strong style="user-select: auto;">concatenate </strong>them so the <strong style="user-select: auto;">output </strong>is <strong style="user-select: auto;">ab </strong>and <strong style="user-select: auto;">print </strong>it.</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Examples:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input</strong>: a = 5, b = 6
+<strong style="user-select: auto;">Output:</strong> 56
+<strong style="user-select: auto;">Explanation</strong>: Concatenate them.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input</strong>: a = 1, b = 9
+<strong style="user-select: auto;">Output:</strong> 19
+<strong style="user-select: auto;">Explanation</strong>: Concatenate them.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-operators</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;
